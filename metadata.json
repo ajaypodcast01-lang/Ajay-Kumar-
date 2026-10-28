@@ -1,0 +1,8 @@
+{
+  "name": "My Room",
+  "description": "Professional student room search & rent app with mobile login, rent receipts, and owner platform fee management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
